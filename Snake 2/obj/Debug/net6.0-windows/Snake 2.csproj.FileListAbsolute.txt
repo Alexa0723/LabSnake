@@ -1,0 +1,22 @@
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\bin\Debug\net6.0-windows\Snake 2.exe
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\bin\Debug\net6.0-windows\Snake 2.deps.json
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\bin\Debug\net6.0-windows\Snake 2.runtimeconfig.json
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\bin\Debug\net6.0-windows\Snake 2.dll
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\bin\Debug\net6.0-windows\Snake 2.pdb
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.csproj.AssemblyReference.cache
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2_MarkupCompile.cache
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2_MarkupCompile.lref
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.g.resources
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.AssemblyInfoInputs.cache
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.AssemblyInfo.cs
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.csproj.CoreCompileInputs.cache
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.dll
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\refint\Snake 2.dll
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.pdb
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\Snake 2.genruntimeconfig.cache
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\ref\Snake 2.dll
+C:\Users\Liceth\source\repos\Snake 2\Snake 2\obj\Debug\net6.0-windows\App.baml
